@@ -29,7 +29,7 @@ Rozpočtování má za cíl, aby hospodaření strany bylo předvídatelné, pr�
 
 ##### § 4 Harmonogram rozpočtování
 
-Harmonogram pro projednání rozpočtů na následující rozpočtové období s pořádkovými lhůtami se stanoví následovně:
+(1) Harmonogram pro projednání rozpočtů na následující rozpočtové období s pořádkovými lhůtami se stanoví následovně:
 
 |Konec lhůty|Úkol|
 |--------------|------------------|
@@ -39,7 +39,11 @@ Harmonogram pro projednání rozpočtů na následující rozpočtové období s
 |31. 11.| 	schválení rozpočtu krajského sdružení|
 |10. 12.| 	možnost předložení rozpočtu místního sdružení|
 |31. 12.| 	možnost schválení rozpočtu místního sdružení|
-za předchozí rozpočtové období
+
+(2) Harmonogram pro projednání výsledků hospodaření a výroční finanční zprávy z předchozího rozpočtového období s pořádkovými lhůtami se stanoví následovně:
+
+|Konec lhůty|Úkol|
+|--------------|------------------|
 |1. 2.| 	předložení výsledků hospodaření|
 |1. 3.| 	předložení výroční finanční zprávy republikovému výboru|
 |10. 3.| 	předložení výroční finanční zprávy celostátnímu fóru|
