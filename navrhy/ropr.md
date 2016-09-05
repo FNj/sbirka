@@ -8,7 +8,7 @@ Rozpočtování má za cíl, aby hospodaření strany bylo předvídatelné, pr�
 
 ##### § 2 Rozpočtové určení příjmů
 
-(1) Účelově určené<sup id="footreturn1">[1](#footnote<sup id="footreturn1">[1](#footnote1)</sup></sup> ve prospěch příslušného krajského sdružení jsou následující podíly příjmů:
+(1) Účelově určené<sup id="footreturn1">[1](#footnote1)</sup> ve prospěch příslušného krajského sdružení jsou následující podíly příjmů:
 
 |Příjem|Podíl|
 |------|-----|
